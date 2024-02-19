@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\Sushmit\Downloads\Jspider java\prodigy infotech\Task 1\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1299350395.index
+301057461.index
+665506660.index
+713977569.index
+1715303687.index
+3906244599.index

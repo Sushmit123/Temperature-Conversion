@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;Temperature/src/main/webapp/web2.xml&apos;" deleteContents="false" description="Delete resource &apos;Temperature/src/main/webapp/web2.xml&apos;" element1="/Temperature/src/main/webapp/web2.xml" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1705644831251"/>
+</session>
